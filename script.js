@@ -4,5 +4,5 @@
   let num2=parseInt(b);
   // console.log(typeof num1 +" "+ typeof num2);
   let result=(num1*2)+num2;
-  alert(result);
+  alert("The final result is:  "+ result);
 
