@@ -7,5 +7,5 @@
     result+=num2;
  //  // console.log(typeof num1 +" "+ typeof num2);
  // 
-  alert("The final result is:  "+ result);
+  alert( "The final result is: " + result);
 
